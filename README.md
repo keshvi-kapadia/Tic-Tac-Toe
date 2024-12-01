@@ -54,8 +54,7 @@ Here's how the magic happens:
 ## 📸 Screenshots
 
 <img src="https://github.com/user-attachments/assets/bc2365c5-254b-4727-83de-a8d4d3536d14" alt="Game Screenshot 1" width="500" height="250"><br>
-<img src="https://github.com/user-attachments/assets/dc82ef58-d509-463a-bc3d-d086858c30b5
-" alt="Game Screenshot 2" width="250" height="500"> 
+<img src="https://github.com/user-attachments/assets/dc82ef58-d509-463a-bc3d-d086858c30b5" alt="Game Screenshot 2" width="250" height="500"> 
 
 
 ---
