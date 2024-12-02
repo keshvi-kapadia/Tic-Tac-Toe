@@ -81,13 +81,14 @@ const checkWinner = () => {
           msg.innerText = `Congratulations!! player ${winner} won`;
           newbtn.classList.remove("hide");
           disableBoxes();
+          break;
+        }
+        if(cnt==9)
+        {
+          msg.innerText = "Game is Draw";
+          newbtn.classList.remove("hide");
         }
       }
     }
-  }
-  else if(cnt==9)
-  {
-      msg.innerText = "Game is Draw";
-      newbtn.classList.remove("hide");
   }
 };
